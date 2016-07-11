@@ -31,8 +31,8 @@ python family_dict.py || python stocks.py
 ```
 
 
-![screenshot](family_dict_screenshot.tiff)
-![screenshot](stocks_screenshot.tiff)
+![screenshot](/family_dict_screenshot.tiff)
+![screenshot](/stocks_screenshot.tiff)
 
 
 ## License 
